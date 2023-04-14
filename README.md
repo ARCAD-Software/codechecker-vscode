@@ -1,2 +1,1 @@
-# codechecker-vscode
-ARCAD-CodeChecker VSCode extension
+# ARCAD-CodeChecker VSCode extension
