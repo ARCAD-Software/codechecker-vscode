@@ -1,3 +1,3 @@
-* [Home](/)
+* [ARCAD-CodeChecker](/)
 * [Prerequisites](pages/prerequisites.md)
-* [Setup](pages/setup.md)
+* [Getting Started](pages/getting-started.md)

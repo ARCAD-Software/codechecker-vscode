@@ -1,0 +1,2 @@
+# Prerequisites
+An up and running ARCAD-CodeChecker server, version 23.1 or above. The server's installation package can be downloaded from [ARCAD's Customer Portal](https://portal.arcadsoftware.com/).
