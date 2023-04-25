@@ -1,0 +1,1 @@
+# ARCAD-CodeChecker VSCode extension
