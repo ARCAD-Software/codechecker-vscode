@@ -1,4 +1,7 @@
 # ARCAD-CodeChecker VSCode extension
+![https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-elias](https://img.shields.io/visual-studio-marketplace/v/arcadsoftware.arcad-codechecker)
+![https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-elias](https://img.shields.io/visual-studio-marketplace/i/arcadsoftware.arcad-codechecker)
+
 Check your IBM i source and detect issues before they make it to production!
 
 ## Features
